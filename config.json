@@ -1,0 +1,5 @@
+{
+    "serverPort": 3000,
+    "defaultBroadcastIP": "192.168.1.255",
+    "defaultBroadcastPort": 7
+}
