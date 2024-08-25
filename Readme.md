@@ -24,7 +24,7 @@ node server.js
 
 ## API documentation
 
-The API contains a single endpoint:
+The API contains a single endpoint that accepts a **POST** request:
 
 ```text
 http://[server-ip]:[server-port]/wake-on-lan
