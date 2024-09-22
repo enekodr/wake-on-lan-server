@@ -9,7 +9,7 @@
   "author": "Eneko Diaz Romero",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2"
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
   }
 }
